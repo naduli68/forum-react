@@ -1,0 +1,17 @@
+div.red-theme nav.navbar {
+    background-color: rgb(211, 61, 61) !important;
+}
+
+div.navbar-collapse ul li a{
+    color: white !important;
+    
+}
+
+div.red-theme div.navbar-collapse ul li:hover {
+    background-color: rgba(240, 34, 34, 0.774) !important;
+    
+}
+
+div.red-theme button.navbar-toggler{
+    background-color: white;
+}
